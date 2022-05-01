@@ -10,8 +10,9 @@ I am a self-taught developer passionate about technology.
 I love agile methodologies, the GNU project, watch movies with my family and solving magic cubes.
 I am always willing to learn more and update myself.
 
-
- 
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mathalmeidadev&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+</div>
 
 
 ## Skills
@@ -31,6 +32,7 @@ I am always willing to learn more and update myself.
 - Postgres
 - Amazon web services
 - Elasticsearch
+
 
 
 <!---
