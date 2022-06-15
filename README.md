@@ -10,9 +10,9 @@ I am a self-taught developer passionate about technology.
 I love agile methodologies, the GNU project, watch movies with my family and solving magic cubes.
 I am always willing to learn more and update myself.
 
-![My stats](https://github-readme-stats.vercel.app/api?username=mathalmeidadev&theme=nord&show_icons=true)
+![My stats](https://github-readme-stats.vercel.app/api?username=math-almeida&theme=nord&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathalmeidadev&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=math-almeida&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Skills
