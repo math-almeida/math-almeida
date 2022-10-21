@@ -2,11 +2,11 @@
 [![Linkedin](https://img.shields.io/badge/Matheus%20Almeida%20-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-m-almeida/)
 
 
-I'm majoring in Computer Science at PUC Minas. 
+I'm majoring in Computer Science at Anhembi Morumbi. 
 
-I've been working as backend developer since 2018 and currently I'm Backend Engineer at Hotmart
+I've been working as backend developer since 2018 and currently I'm Backend Engineer at Pier Seguradora.
 
-I am a self-taught developer passionate about technology.
+I am a self-taught developer passionate about technology and cybersecurity.
 I love agile methodologies, the GNU project, watch movies with my family and solving magic cubes.
 I am always willing to learn more and update myself.
 
