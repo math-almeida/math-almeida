@@ -4,7 +4,7 @@
 
 I'm majoring in Computer Science at Anhembi Morumbi. 
 
-I've been working as backend developer since 2018 and currently I'm Backend Engineer at Pier Seguradora.
+I've been working as backend developer since 2018 and currently I'm Backend Engineer at GetNinjas.
 
 I am a self-taught developer passionate about technology and cybersecurity.
 I love agile methodologies, the GNU project, watch movies with my family and solving magic cubes.
