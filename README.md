@@ -10,6 +10,8 @@ I am a self-taught developer passionate about technology and cybersecurity.
 I love agile methodologies, the GNU project, watch movies with my family and solving magic cubes.
 I am always willing to learn more and update myself.
 
+#### These are my [Dotfiles](https://github.com/math-almeida/dotfiles)
+
 ![My stats](https://github-readme-stats.vercel.app/api?username=math-almeida&theme=nord&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=math-almeida&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
@@ -22,10 +24,12 @@ I am always willing to learn more and update myself.
 - Javascript(NodeJS) <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs logo" width="20" heigth="20">
 - Ruby(Ruby on Rails) <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" alt="ruby logo" width="20" height="20">
 - Python(Django) <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python logo" width="20" height="20">
-- Golang(learning...) <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" alt="golang logo" width="20" height="20">
+- Rust <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" alt="rust logo" width="20" height="20">
+- Emacs Lisp <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/emacs/emacs.png" alt="emacs lisp logo" width="20" height="20">
 
 ### Tools
 - Docker
+- Kubernates
 - Bitbucket/gitlab/github pipelines
 - RabbitMQ
 - Redis
