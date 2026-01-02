@@ -1,20 +1,13 @@
 ## Hi, I'm Matheus Almeida :brazil:
 [![Linkedin](https://img.shields.io/badge/Matheus%20Almeida%20-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-m-almeida/)
 
-
-I'm majoring in Computer Science at Anhembi Morumbi. 
-
-I've been working as backend developer since 2018 and currently I'm Backend Engineer at CloudWalk.
+I've been working as backend developer since 2018 and currently I'm Backend Engineer at TechBiz group.
 
 I am a self-taught developer passionate about technology and cybersecurity.
 I love agile methodologies, the GNU project, watch movies with my family and solving magic cubes.
 I am always willing to learn more and update myself.
 
 #### These are my [Dotfiles](https://github.com/math-almeida/dotfiles)
-
-![My stats](https://github-readme-stats.vercel.app/api?username=math-almeida&theme=nord&show_icons=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=math-almeida&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Skills
